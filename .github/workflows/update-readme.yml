@@ -29,7 +29,7 @@ jobs:
         library(rvest)
         writeLines(
           gsub(
-            pattern = "movies \\[0-9,]*\\) and",
+            pattern = "movies \\([0-9,]*\\) and",
             replacement = read_html("https://www.imdb.com/user/ur56341222/ratings") %>%
               html_nodes("div.header.filmosearch") %>%
               html_text() %>%
