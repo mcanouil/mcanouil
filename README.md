@@ -2,10 +2,11 @@
   <a href="http://mickael.canouil.fr/">
     <img src="https://github.com/mcanouil/hex-stickers/blob/master/SVG/coeos.svg" align="left" width="80"/>
   </a>
-  Hi 👋, I am Mickaël!
+  Hi 👋,
   <a href="https://rlille.github.io/">
     <img src="https://github.com/mcanouil/hex-stickers/blob/master/SVG/rlille.svg" align="right" width="80"/>
   </a>
+  </br>I am Mickaël!
   </br><a href="http://mickael.canouil.fr/">
     <img alt="Curriculum Vitæ" src="https://shields.io/badge/Curriculum-Vitæ-333">
   </a>
