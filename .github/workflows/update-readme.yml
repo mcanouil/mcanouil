@@ -1,4 +1,4 @@
-name: Update README
+name: Update README.md
 
 on:
   push:
@@ -24,7 +24,7 @@ jobs:
       run: |
         sudo apt-get install libcurl4-openssl-dev
         Rscript -e 'install.packages("rvest")'
-    - name: Compute README
+    - name: Compute README.md
       run: | 
         library(rvest)
         writeLines(
@@ -39,9 +39,9 @@ jobs:
           con = "README.md"
         )
       shell: Rscript {0}
-    - name: Commit README
+    - name: Commit README.md
       run: | 
         git config --global user.name "${{secrets.NAME}}"
         git config --global user.email ${{secrets.EMAIL}}
-        git commit README.md -m 'Update README.Rmd' || echo "No changes to commit"
+        git commit README.md -m 'Update README.md' || echo "No changes to commit"
         git push || echo "No changes to commit"
