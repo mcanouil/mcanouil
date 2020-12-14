@@ -19,10 +19,10 @@
 <p align="center">And when I am not working, I like watching movies (2,819) and playing with R!</p>
 <p align="center">
   <a href="https://github.com/mcanouil/imdb_ratings">
-    <img alt="https://github.com/mcanouil/imdb_ratings" src="https://shields.io/badge/Github-imdb__ratings-333?logo=github">
+    <img alt="https://github.com/mcanouil/imdb_ratings" src="https://shields.io/badge/Github-imdb__ratings-333?logo=github&logoColor=white">
   </a>
   <a href="https://github.com/mcanouil/ggpacman">
-    <img alt="https://github.com/mcanouil/ggpacman" src="https://shields.io/badge/Github-ggpacman-333?logo=github">
+    <img alt="https://github.com/mcanouil/ggpacman" src="https://shields.io/badge/Github-ggpacman-333?logo=github&logoColor=white">
   </a>
 </p>
 <p align="center">
@@ -32,9 +32,9 @@
 </p>
 <p align="center">
   <a href="https://twitter.com/mickaelcanouil">
-    <img alt="https://twitter.com/mickaelcanouil" src="https://shields.io/badge/Twitter-mickaelcanouil-333?logo=twitter">
+    <img alt="https://twitter.com/mickaelcanouil" src="https://shields.io/badge/Twitter-mickaelcanouil-333?logo=twitter&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/mickaelcanouil">
-    <img alt="https://www.linkedin.com/in/mickaelcanouil" src="https://shields.io/badge/LinkedIn-mickaelcanouil-333?logo=linkedin">
+    <img alt="https://www.linkedin.com/in/mickaelcanouil" src="https://shields.io/badge/LinkedIn-mickaelcanouil-333?logo=linkedin&logoColor=white">
   </a>
 </p>
