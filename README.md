@@ -16,7 +16,7 @@
   of the <a href="http://www.good.cnrs.fr/?lang=en">Inserm U1283 / CNRS UMR 8199 unit</br>(<i>Functional (Epi)genomics and Molecular Physiology of Diabetes and Related Diseases</i>)</a></br>
   for the <a href="https://www.pasteur-lille.fr/5/home/">Institut Pasteur de Lille</a> (France, Lille).
 </p>
-<p align="center">And when I am not working, I like watching movies (2,819) and playing with R!</p>
+<p align="center">And when I am not working, I like watching movies (2,820) and playing with R!</p>
 <p align="center">
   <a href="https://github.com/mcanouil/imdb_ratings">
     <img alt="https://github.com/mcanouil/imdb_ratings" src="https://shields.io/badge/Github-imdb__ratings-333?logo=github&logoColor=white">
