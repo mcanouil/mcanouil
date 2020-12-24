@@ -42,5 +42,6 @@ jobs:
     - name: Commit README.md
       run: | 
         git config --global user.name "${{github.actor}}"
+        git config --global user.email ${{secrets.EMAIL}}
         git commit README.md -m 'Update README.md' || echo "No changes to commit"
         git push || echo "No changes to commit"
