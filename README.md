@@ -26,4 +26,4 @@
   for the <a href="https://www.pasteur-lille.fr/5/home/">Institut Pasteur de Lille</a> (France, Lille).
 </p>
 <p align="center">And when I am not working, I like watching movies (3,000) and playing with R!</p>
-<p align="center"><a href="https://github.com/mcanouil/imdb_ratings"><img alt="Movies seen in a movie theatre year streak" src="https://raw.githubusercontent.com/mcanouil/imdb_ratings/main/media/streak.svg" /></a></p>
+<p align="center"><a href="https://github.com/mcanouil/imdb-ratings"><img alt="Movies seen in a movie theatre year streak" src="https://raw.githubusercontent.com/mcanouil/imdb-ratings/main/media/streak.svg" /></a></p>
