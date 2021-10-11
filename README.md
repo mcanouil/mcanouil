@@ -8,7 +8,7 @@
   </a>
   </br>I am Mickaël!
   </br>
-  <a href="http://mickael.canouil.fr/">
+  <a href="https://mickael.canouil.fr/">
     <img alt="Personal Website of Mickaël Canouil" src="https://shields.io/badge/Personal-Website-333" />
   </a>
   <p align="center">
