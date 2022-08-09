@@ -33,6 +33,7 @@ jobs:
           )
         shell: Rscript {0}
       - name: Create Pull Request
+        if: ${{ false }}
         id: cpr
         uses: peter-evans/create-pull-request@v4
         with:
@@ -50,4 +51,9 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           number: ${{ steps.cpr.outputs.pull-request-number }}
           method: merge
-
+      - name: Commit README.md
+        run: | 
+          git config --local user.name "$GITHUB_ACTOR"
+          git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
+          git commit README.md -m 'ci: automatic README.md update' || echo "No changes to commit"
+          git push || echo "No changes to commit"
