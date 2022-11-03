@@ -21,7 +21,7 @@
 </p>
 </h1>
 <p align="center">
-  I am currently working as a consultant in <b><i>Biostatistics</i></b>.</br>
+  I am currently working as a consultant in <b><i>Biostatistics</i></b> in the field of genetics, _i.e._, proteomics, metabolomics, transcriptomics, _etc._ (France, Lille/Paris).
 </p>
 <p align="center">And when I am not working, I like watching movies (3,238) and playing with R!</p>
 <p align="center"><a href="https://github.com/mcanouil/imdb-ratings"><img alt="Movies seen in a movie theatre year streak" src="https://raw.githubusercontent.com/mcanouil/imdb-ratings/main/media/streak.svg" /></a></p>
