@@ -12,7 +12,7 @@
     <img alt="Personal Website of Mickaël Canouil" src="https://shields.io/badge/Personal-Website-333" />
   </a>
   <p align="center">
-    <a href="https://fosstodon.org/@MickaelCanouil"><img alt="Mastodon account of Mickaël Canouil" src="https://shields.io/badge/Mastodon-MickaelCanouil-333?logo=mastodon&logoColor=white" /></a>
+    <a href="https://fosstodon.org/@MickaelCanouil" rel="me"><img alt="Mastodon account of Mickaël Canouil" src="https://shields.io/badge/Mastodon-MickaelCanouil-333?logo=mastodon&logoColor=white" /></a>
     <a href="https://twitter.com/MickaelCanouil"><img alt="Twitter account of Mickaël Canouil" src="https://shields.io/badge/Twitter-MickaelCanouil-333?logo=twitter&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/mickaelcanouil"><img alt="LinkedIn account of Mickaël Canouil" src="https://shields.io/badge/LinkedIn-mickaelcanouil-333?logo=linkedin&logoColor=white" /></a>
 </p>
