@@ -20,5 +20,5 @@
 <p align="center">
   I am currently working as a consultant in <b><i>Biostatistics</i></b> in the field of genetics,<br><i>i.e.</i>, proteomics, metabolomics, transcriptomics, <i>etc.</i><br>in Lille & Paris, France.
 </p>
-<p align="center">And when I am not working, I like watching movies (3,245) and playing with R!</p>
+<p align="center">And when I am not working, I like watching movies (3,246) and playing with R!</p>
 <p align="center"><a href="https://github.com/mcanouil/imdb-ratings"><img alt="Movies seen in a movie theatre year streak" src="https://raw.githubusercontent.com/mcanouil/imdb-ratings/main/media/streak.svg" /></a></p>
