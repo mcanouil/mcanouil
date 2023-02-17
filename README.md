@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="http://mickael.canouil.fr/">
+  <a href="https://mickael.canouil.fr/">
     <img src="https://raw.githubusercontent.com/mcanouil/hex-stickers/main/SVG/mc.svg" align="left" width="80" />
   </a>
   Hi 👋,
