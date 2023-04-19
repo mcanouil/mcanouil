@@ -11,8 +11,7 @@
   <p align="center">
     <a href="https://mickael.canouil.fr/"><img alt="Personal Website of Mickaël Canouil" src="https://shields.io/badge/Personal-Website-333" /></a>
     <a href="https://github.com/sponsors/mcanouil"><img alt="GitHub Sponsor profile of Mickaël Canouil" src="https://shields.io/badge/Github-Sponsor-333?logo=githubsponsors&logoColor=white" /></a>
-  </p>
-  <p align="center">
+    </br>
     <a href="https://fosstodon.org/@MickaelCanouil" rel="me"><img alt="Mastodon account of Mickaël Canouil" src="https://shields.io/badge/Mastodon-MickaelCanouil-333?logo=mastodon&logoColor=white" /></a>
     <a href="https://twitter.com/MickaelCanouil"><img alt="Twitter account of Mickaël Canouil" src="https://shields.io/badge/Twitter-MickaelCanouil-333?logo=twitter&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/mickaelcanouil"><img alt="LinkedIn account of Mickaël Canouil" src="https://shields.io/badge/LinkedIn-mickaelcanouil-333?logo=linkedin&logoColor=white" /></a>
