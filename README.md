@@ -23,3 +23,4 @@ Additionally, I am also a <b><i>freelance</i></b>, available for hire to work on
 </p>
 <p align="center">And when I am not working, I like watching movies (3,333) and playing with R!</p>
 <p align="center"><a href="https://github.com/mcanouil/imdb-ratings"><img alt="Movies seen in a movie theatre year streak" src="https://raw.githubusercontent.com/mcanouil/imdb-ratings/main/media/streak.svg" /></a></p>
+<p align="center"><img alt="Mickaël CANOUIL GitHub statistic card using 'github-readme-stats' app by anuraghazra", src="https://github-readme-stats.vercel.app/api?username=mcanouil&theme=github_dark_dimmed&show_icons=true&count_private=true" /></p>
