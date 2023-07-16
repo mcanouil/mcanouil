@@ -21,6 +21,6 @@
   I am currently working as a consultant in <b><i>Biostatistics</i></b>, with a strong expertise in the field of genetics, <br><i>i.e.</i>, genotyping, sequencing, proteomics, metabolomics, transcriptomics, <i>etc.</i><br> in Lille & Paris, France.<br>
 Additionally, I am also a <b><i>freelance</i></b>, available for hire to work on <b><i>R and Quarto related projects</i></b>.
 </p>
-<p align="center">And when I am not working, I like watching movies (3,360) and playing with R!</p>
+<p align="center">And when I am not working, I like watching movies (3,361) and playing with R!</p>
 <p align="center"><a href="https://github.com/mcanouil/imdb-ratings"><img alt="Movies seen in a movie theatre year streak" src="https://raw.githubusercontent.com/mcanouil/imdb-ratings/main/media/streak.svg" /></a></p>
 <p align="center"><a href="https://github.com/mcanouil"><img alt="Mickaël CANOUIL GitHub statistic card using 'github-readme-stats' app by anuraghazra", src="https://github-readme-stats.vercel.app/api?username=mcanouil&theme=github_dark_dimmed&show_icons=true&count_private=true" /></a></p>
