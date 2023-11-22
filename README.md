@@ -1,10 +1,7 @@
 <h1 align="center">
-  <a href="https://mickael.canouil.fr/">
-    <img src="https://raw.githubusercontent.com/mcanouil/hex-stickers/main/SVG/mc.svg" align="left" width="80" />
-  </a>
   Hi 👋,
-  <a href="https://rlille.fr/">
-    <img src="https://raw.githubusercontent.com/mcanouil/hex-stickers/main/SVG/rlille.svg" align="right" width="80" />
+  <a href="https://mickael.canouil.fr/">
+    <img src="https://raw.githubusercontent.com/mcanouil/hex-stickers/main/SVG/mc.svg" align="right" width="80" alt="Hexagonal logo with dark grey border and light background. The letters MC with dark grey borders are centred in the logo."/>
   </a>
   </br>I am Mickaël!
   </br>
