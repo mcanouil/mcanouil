@@ -7,7 +7,7 @@
     <a href="https://github.com/sponsors/mcanouil"><img alt="GitHub Sponsor profile of Mickaël Canouil" src="https://shields.io/badge/GitHub-Sponsor-333?logo=githubsponsors&logoColor=white" /></a>
     </br>
     <a href="https://fosstodon.org/@MickaelCanouil" rel="me"><img alt="Mastodon account of Mickaël Canouil" src="https://shields.io/badge/Mastodon-MickaelCanouil-333?logo=mastodon&logoColor=white" /></a>
-    <a href="https://twitter.com/MickaelCanouil"><img alt="Twitter account of Mickaël Canouil" src="https://shields.io/badge/Twitter-MickaelCanouil-333?logo=twitter&logoColor=white" /></a>
+    <a href="https://x.com/MickaelCanouil"><img alt="X account of Mickaël Canouil" src="https://shields.io/badge/X-MickaelCanouil-333?logo=x&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/mickaelcanouil"><img alt="LinkedIn account of Mickaël Canouil" src="https://shields.io/badge/LinkedIn-mickaelcanouil-333?logo=linkedin&logoColor=white" /></a>
   </p>
 </h1>
