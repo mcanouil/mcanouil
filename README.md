@@ -14,7 +14,7 @@
   I am currently working as a consultant in <b><i>Biostatistics</i></b>, with a strong expertise in the field of genetics, <br><i>i.e.</i>, genotyping, sequencing, proteomics, metabolomics, transcriptomics, <i>etc.</i><br> in Lille & Paris, France.<br>
 Additionally, I am also a <b><i>freelance</i></b>, available for hire to work on <b><i>R and Quarto related projects</i></b>.
 </p>
-<p align="center">And when I am not working, I like watching movies (<img src="https://raw.githubusercontent.com/mcanouil/imdb-ratings/main/media/imdb.svg" />) and playing with my black Labrador Retriever named Saga!</p>
+<p align="center">And when I am not working, I like watching movies (<a href="https://github.com/mcanouil/imdb-ratings"><img src="https://raw.githubusercontent.com/mcanouil/imdb-ratings/main/media/imdb.svg" /></a>) and playing with my black Labrador Retriever named Saga!</p>
 <p align="center"><a href="https://github.com/mcanouil/imdb-ratings"><img alt="Movies seen in a movie theatre year streak" src="https://raw.githubusercontent.com/mcanouil/imdb-ratings/main/media/streak.svg" /></a></p>
 <hr>
 <p align="center">
