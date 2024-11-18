@@ -8,7 +8,7 @@
   </br>
   <a href="https://fosstodon.org/@MickaelCanouil" rel="me"><img alt="Mastodon account of Mickaël Canouil" src="https://shields.io/badge/Mastodon-MickaelCanouil-333?logo=mastodon&logoColor=white" /></a>
   <a href="https://x.com/MickaelCanouil"><img alt="X account of Mickaël Canouil" src="https://shields.io/badge/X-MickaelCanouil-333?logo=x&logoColor=white" /></a>
-  <a href="[https://x.com/MickaelCanouil](https://bsky.app/profile/mickael.canouil.fr)"><img alt="X account of Mickaël Canouil" src="https://shields.io/badge/BlueSky-mickael.canouil.fr-333?logo=bluesky&logoColor=white" /></a>
+  <a href="https://bsky.app/profile/mickael.canouil.fr"><img alt="X account of Mickaël Canouil" src="https://shields.io/badge/BlueSky-mickael.canouil.fr-333?logo=bluesky&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mickaelcanouil"><img alt="LinkedIn account of Mickaël Canouil" src="https://shields.io/badge/LinkedIn-mickaelcanouil-333?logo=linkedin&logoColor=white" /></a>
 </p>
 <p align="center">
