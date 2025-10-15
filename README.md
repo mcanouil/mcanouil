@@ -43,7 +43,7 @@ I combine expertise in genetics and multi-omics analysis with open-source develo
 When I am not working, I enjoy watching films (<a href="https://www.imdb.com/user/ur56341222/ratings"><img src="https://raw.githubusercontent.com/mcanouil/imdb-ratings/main/media/imdb.svg" /></a>) and playing with my black Labrador Retriever named Saga.
 
 <p align="center">
-  <a href="https://github.com/mcanouil/imdb-ratings">
+  <a href="https://github.com/mcanouil/imdb-ratings" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mcanouil/imdb-ratings/main/media/streak-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mcanouil/imdb-ratings/main/media/streak-light.svg">
