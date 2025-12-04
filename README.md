@@ -51,10 +51,3 @@ When I am not working, I enjoy watching films (<a href="https://www.imdb.com/use
     </picture>
   </a>
 </p>
-
----
-
-<p align="center">
-  <a href="https://github.com/mcanouil"><img alt="Mickaël CANOUIL GitHub statistic card using 'github-readme-stats' app by anuraghazra", src="https://github-readme-stats.vercel.app/api?username=mcanouil&theme=github_dark_dimmed&show_icons=true&count_private=true" /></a>
-  <a href="https://examregistration.github.com/certification/GHF"><img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations badge image. Certification. Foundational level. Issued by GitHub" width="200" height="200" /></a>
-</p>
