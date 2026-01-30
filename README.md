@@ -12,6 +12,12 @@
   <a href="https://www.linkedin.com/in/mickaelcanouil"><img alt="LinkedIn account of Mickaël Canouil" src="https://shields.io/badge/LinkedIn-mickaelcanouil-333?logo=linkedin&logoColor=white" /></a>
 </p>
 
+<p align="center">
+<picture>
+<img alt="A dark blue gradient banner featuring technology logos in two rows - top row shows Quarto Typst and Quarto Wizard icons separated by plus signs, bottom row shows R and Python logos also with plus signs between them - below are the words Building Better Developer Tools with subtitle Quarto Extensions Reproducible Research Open Source - at bottom are four badge labels reading Biostatistics Data Science Reproducible Research and Technical Documentation - subtle code snippets visible in background corners" src="banner.png">
+</picture>
+</p>
+
 ## About Me
 
 Consultant in **Biostatistics** and **freelance** developer specialising in Quarto and R ecosystems.
@@ -23,6 +29,7 @@ I combine expertise in genetics and multi-omics analysis with open-source develo
 **49 peer-reviewed papers**[^1] in top-tier journals including Nature and Nature Genetics ([latest in Nature Communications, 2024](https://doi.org/10.1038/s41467-024-53687-3)[^2]).
 
 [^1]: 8 as first/co-first/last/co-last author.
+
 [^2]: as co-last author.
 
 ## Open Source
