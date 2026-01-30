@@ -13,9 +13,12 @@
 </p>
 
 <p align="center">
-<picture>
-<img alt="A dark blue gradient banner featuring technology logos in two rows - top row shows Quarto Typst and Quarto Wizard icons separated by plus signs, bottom row shows R and Python logos also with plus signs between them - below are the words Building Better Developer Tools with subtitle Quarto Extensions Reproducible Research Open Source - at bottom are four badge labels reading Biostatistics Data Science Reproducible Research and Technical Documentation - subtle code snippets visible in background corners" src="banner.png">
-</picture>
+    <picture>
+      <img
+        alt="A dark blue gradient banner featuring technology logos in two rows. Top row shows Quarto Typst and Quarto Wizard icons separated by plus signs. Bottom row shows R and Python logos with plus signs between them. Below are the words Tools for Reproducible Research with subtitle Quarto Extensions Data Science Open Source. At bottom are four badge labels reading Biostatistics Data Science Quarto Ecosystem and Open Source. Subtle code snippets visible in background corners."
+        src="banner.png"
+      />
+    </picture>
 </p>
 
 ## About Me
