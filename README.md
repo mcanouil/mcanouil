@@ -38,7 +38,7 @@ I combine expertise in genetics and multi-omics analysis with open-source develo
 ## Open Source
 
 - **Creator** of [Quarto Extensions Directory](https://m.canouil.dev/quarto-extensions/) and [Awesome Quarto](https://github.com/mcanouil/awesome-quarto).
-- **Developer** of [Quarto Wizard](https://github.com/mcanouil/quarto-wizard) VS Code extension and 15+ Quarto extensions.
+- **Developer** of [Quarto Wizard](https://github.com/mcanouil/quarto-wizard) VS Code extension and 30+ Quarto extensions.
 - **Creator** of R packages: [insane](https://github.com/mcanouil/insane), [NACHO](https://github.com/mcanouil/NACHO) and more.
 
 ## Skills
