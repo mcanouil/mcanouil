@@ -29,7 +29,7 @@ I combine expertise in genetics and multi-omics analysis with open-source develo
 > [!NOTE]
 > **Available for Quarto related projects.**
 
-**49 peer-reviewed papers**[^1] in top-tier journals including Nature and Nature Genetics ([latest in Nature Communications, 2024](https://doi.org/10.1038/s41467-024-53687-3)[^2]).
+**50 peer-reviewed papers**[^1] in top-tier journals including Nature and Nature Genetics ([latest in Nature Communications, 2024](https://doi.org/10.1038/s41467-024-53687-3)[^2]).
 
 [^1]: 8 as first/co-first/last/co-last author.
 
