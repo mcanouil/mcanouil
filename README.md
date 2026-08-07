@@ -52,7 +52,8 @@ Eight of those place me as first, co-first, last, or co-last author.
 
 ## Personal
 
-Away from the keyboard I watch a lot of films (<a href="https://www.imdb.com/user/ur56341222/ratings"><img alt="Number of films seen by Mickaël Canouil" src="https://raw.githubusercontent.com/mcanouil/imdb-ratings/main/media/imdb.svg" /></a>), about half of them in a theatre, play board games from heavy strategy to party games, and walk Saga, my black Labrador Retriever.
+Away from the keyboard I watch a lot of films (<a href="https://www.imdb.com/user/ur56341222/ratings"><img alt="Number of films seen by Mickaël Canouil" src="https://raw.githubusercontent.com/mcanouil/imdb-ratings/main/media/imdb.svg" /></a>), about half of them in a theatre.
+I also play board games, from heavy strategy to party games, and walk Saga, my black Labrador Retriever.
 
 <p align="center">
   <a href="https://github.com/mcanouil/imdb-ratings" target="_blank">
